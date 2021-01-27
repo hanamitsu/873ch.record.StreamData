@@ -1,5 +1,10 @@
 # 873ch.record.StreamData
-list型の数列を時系列管理するためのパッチ。動画化して保存する。動画化したデータをlist型に再展開する。
+list型の数列を時系列で管理するためのパッチ。動画化して保存する。動画化したデータをlist型に再展開する。
+
+フレームレートも変換可能
+
+<img src="https://user-images.githubusercontent.com/8988162/105933481-d41b1080-6091-11eb-9268-ad0b805fd710.gif" width="500">
+<img src="https://user-images.githubusercontent.com/8988162/105932773-c7e28380-6090-11eb-99a7-00807a15b4bd.gif" width="500">
 
 ## hana_2021/01/21_2301_memo
 [jit.vcr]では固定fpsでレコードできないことがわかった。
